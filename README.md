@@ -3,12 +3,15 @@
 The final aspect added was ambient lighting in the scene to have a deeper control of the colors and mood of the scene:
 
 Sunrise
+
 ![sunrise](https://user-images.githubusercontent.com/85852238/180950156-059432fb-49bc-48a7-bde4-b52e9c71c02e.jpg)
 
 Noon
+
 ![day](https://user-images.githubusercontent.com/85852238/180950189-1d4de2af-31a9-40c4-a737-d8f4d293d1fb.jpg)
 
 Night
+
 ![night](https://user-images.githubusercontent.com/85852238/180950220-541dc86a-b1fc-486b-a1b3-96b4d3454e67.jpg)
 
 To run the program:
